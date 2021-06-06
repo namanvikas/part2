@@ -1,0 +1,20 @@
+body{
+    background-color: yellowgreen;
+}
+
+.heading{
+    width: 100%;
+    font-size: 40px;
+}
+
+.text_image_and_result{
+    font-size: 30px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 30;
+}
+
+.text_image_and_result_div{
+    font-size: 30px;
+    box-shadow: 5px 5px 5px white;
+margin-top: 20;
+}
